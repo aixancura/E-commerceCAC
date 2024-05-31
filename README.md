@@ -22,7 +22,7 @@ Nos dirigimos a personas apasionadas por el deporte y el fitness que buscan ropa
 
 # Fonts
 
-1. [Poppins]()
+1. [Poppins](https://fonts.google.com/specimen/Poppins)
 
 # Sitios web de referencia. 
 

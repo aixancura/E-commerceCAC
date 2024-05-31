@@ -1,6 +1,50 @@
 @import url(/public/css/colores.css);
+    /*--color1: #FFF2D7;
+    --color2: #FFE0B5;
+    --color3: #F8C794;
+    --color4: #D8AE7E;
+    --color5: #00215E;*/
 
 :root{
     font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    background-color: FFF2D7;
     width:100%;
 }
+
+p.title-logo{
+    margin: 0%;
+}
+
+.logo{
+    width: 100px;
+    height: 89px;
+}
+
+.container{
+    margin-left: 0%;
+    display: flex;
+}
+
+.div-foot{
+    display: flex;
+    flex-direction: column;
+}
+
+i{
+    color: #00215E;
+    transition: color 0.3s ease;
+}
+
+i:hover{
+    color: #D8AE7E;
+}
+
+.mad-pay{
+    display: flex;
+}
+
+.ul{
+    padding:-5px;
+}
+
